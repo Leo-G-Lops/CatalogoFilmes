@@ -1,0 +1,22 @@
+body{
+    background-color: #f4f4f4;
+}
+
+.car-filme{
+    transition:0.3s;
+    cursor:pointer;
+}
+
+.card-filme:hover {
+    transform:scale(1.03);
+}
+
+.card-filme img{
+    height: 400px;
+    object-fit:cover;
+    
+}
+
+h3{
+    color:blue;
+}
